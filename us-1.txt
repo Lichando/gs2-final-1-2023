@@ -1,0 +1,5 @@
+Como usuario quiero poder cambiar mi contraseña para no poder el acceso en caso que se me halla
+olvidado.
+
+Criterio de aceptacion: Debe enviarse un mail al correo del usuario con un enlace valido por 24 horas 
+para que pueda realizar el cambio.

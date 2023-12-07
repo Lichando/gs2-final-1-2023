@@ -1,0 +1,8 @@
+Los metodos para realizar recoleccion de requisitos es:
+
+*Entrevista: Se realiza una reunion con el dueño del producto y se lo va entrevistando para 
+saber que es lo que quiere en su sistema.
+
+*Observacion: Se realiza observando el funcionamiento del sistemas o revisando que es lo que
+se puede mejorar.
+
