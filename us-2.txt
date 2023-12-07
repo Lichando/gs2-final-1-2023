@@ -1,0 +1,8 @@
+Scrum es una metodologia agil que se utiliza para el desarrollo de software y se desarrolla
+en equipo donde hay actores que trabajan para lograr un producto solicitado por un cliente.
+
+Los artefactos que se utilizan en estas areas son: BackLog,SprintLog, Haciendo, Testeando y finalizado.
+
+Los actores: Stakeholders, Equipo , Produc Owner, Scrum Master
+
+Ceremonias: Scrum Planning, Daily , Scrum Restropective , Scrum Review
